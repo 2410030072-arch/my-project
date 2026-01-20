@@ -1,1 +1,1 @@
-Hello, this is 1st project pusing into git :)
+Hello, this is 1st project pushing into git :)
